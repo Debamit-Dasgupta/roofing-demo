@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 48" fill="none">
+  <!-- Five-point Texas Star on top apex -->
+  <polygon points="27,1 29.5,8 37,8.2 31,12.8 33.2,20 27,15.5 20.8,20 23,12.8 17,8.2 24.5,8" fill="#1F4E79"/>
+  <!-- Outer Gable / Rafter (Texas Terracotta Red #B53A32) -->
+  <path d="M6 34 L27 12 L48 34" stroke="#B53A32" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Inner Gable Roof Truss (Dark Slate / Charcoal) -->
+  <path d="M14 34 L27 21 L40 34" stroke="#1F4E79" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Foundation / Center Standoff -->
+  <rect x="25" y="37" width="4" height="7" rx="1" fill="#B53A32"/>
+</svg>
